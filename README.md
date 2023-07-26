@@ -9,7 +9,7 @@ This repository contains the Profasee Demo App, a React.js application that show
 - Real-time data fetching from an external API (https://dev-api2.profasee.com/reports/test-data).
 - Styling using Tailwind CSS for a responsive and modern UI.
 
-#Getting Started
+# Getting Started
 To run the Profasee Demo App locally, follow these steps:
 
 - Clone this repository to your local machine using:
