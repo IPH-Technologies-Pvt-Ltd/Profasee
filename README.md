@@ -12,7 +12,7 @@ This repository contains the Profasee Demo App, a React.js application that show
 # Getting Started
 To run the Profasee Demo App locally, follow these steps:
 
-- Clone this repository to your local machine using:
+1. Clone this repository to your local machine using:
   
   ```bash
    git clone https://github.com/your-username/profasee-demo.git
