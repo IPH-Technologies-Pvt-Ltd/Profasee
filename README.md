@@ -52,7 +52,7 @@ Contributions to the Profasee Demo App are welcome! If you find any issues or ha
 # License
 This project is licensed under the MIT License.
 
-<img src="" 
+<img src="https://github.com/IPH-Technologies-Pvt-Ltd/Profasee/blob/80aab37558f78c8ab6d4628d90c1a07e83da5eb5/profasee.gif" 
      width="500" 
      height="300" />
 
