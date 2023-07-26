@@ -52,5 +52,8 @@ Contributions to the Profasee Demo App are welcome! If you find any issues or ha
 # License
 This project is licensed under the MIT License.
 
+<img src="https://user-images.githubusercontent.com/124572978/219279014-8c918eed-6803-422b-8097-397371ebbd5f.gif" 
+     width="500" 
+     height="300" />
 
 Enjoy exploring the Profasee Demo App! If you have any questions or need further assistance, please don't hesitate to contact us. Happy charting!
