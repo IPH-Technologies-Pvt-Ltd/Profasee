@@ -18,5 +18,39 @@ To run the Profasee Demo App locally, follow these steps:
    git clone https://github.com/your-username/profasee-demo.git
 ```
 2. Navigate to the project directory:
-   cd profasee-demo
 
+ ```bash
+   cd profasee-demo
+```
+3. Install the required dependencies using npm:
+
+    ```bash
+     npm install
+   ```
+4. Start the development server:
+
+   ```bash
+   npm start
+   ```
+5. Open your web browser and visit http://localhost:3000 to see the app in action.
+
+# Usage:
+- Upon launching the app, you will be presented with various interactive charts displaying ad revenue and profit/loss data.
+- Use the datepicker to select custom date ranges and see how the data changes accordingly.
+- The charts compare data between the current year and the previous year for meaningful insights.
+
+# Technologies Used:
+- React.js
+- ApexCharts
+- Tailwind CSS
+- Day.js
+- Moment.js
+
+# Contributions
+Contributions to the Profasee Demo App are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+# License
+This project is licensed under the MIT License.
+
+
+Enjoy exploring the Profasee Demo App! If you have any questions or need further assistance, please don't hesitate to contact us. Happy charting!
