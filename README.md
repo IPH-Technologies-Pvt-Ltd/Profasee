@@ -15,7 +15,7 @@ To run the Profasee Demo App locally, follow these steps:
 1. Clone this repository to your local machine using:
   
   ```bash
-   git clone https://github.com/your-username/profasee-demo.git
+   git clone https://github.com/your-username/profasee-demo.git```
 
 2. Navigate to the project directory:
 
