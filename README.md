@@ -1,6 +1,6 @@
-# Profasee Demo App
+# Profasee App
 
-This repository contains the Profasee Demo App, a React.js application that showcases interactive charts and visualizations for ad revenue and profit/loss data. The app uses the ApexCharts library to display data fetched from an external API, and it allows users to select date ranges to view different time periods' data.
+This repository contains the Profasee App, a React.js application that showcases interactive charts and visualizations for ad revenue and profit/loss data. The app uses the ApexCharts library to display data fetched from an external API, and it allows users to select date ranges to view different time periods' data.
 
 # Features
 - Interactive charts and visualizations for ad revenue and profit/loss data.
@@ -10,17 +10,17 @@ This repository contains the Profasee Demo App, a React.js application that show
 - Styling using Tailwind CSS for a responsive and modern UI.
 
 # Getting Started
-To run the Profasee Demo App locally, follow these steps:
+To run the Profasee App locally, follow these steps:
 
 1. Clone this repository to your local machine using:
   
   ```bash
-   git clone https://github.com/your-username/profasee-demo.git
+   git clone https://github.com/your-username/profasee.git
 ```
 2. Navigate to the project directory:
 
  ```bash
-   cd profasee-demo
+   cd profasee
 ```
 3. Install the required dependencies using npm:
 
@@ -47,7 +47,7 @@ To run the Profasee Demo App locally, follow these steps:
 - Moment.js
 
 # Contributions
-Contributions to the Profasee Demo App are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+Contributions to the Profasee App are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 # License
 This project is licensed under the MIT License.
@@ -60,4 +60,4 @@ This project is licensed under the MIT License.
 
 
 
-Enjoy exploring the Profasee Demo App! If you have any questions or need further assistance, please don't hesitate to contact us. Happy charting!
+Enjoy exploring the Profasee App! If you have any questions or need further assistance, please don't hesitate to contact us. Happy charting!
