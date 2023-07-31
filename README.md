@@ -20,7 +20,7 @@ To run the Profasee App locally, follow these steps:
 2. Navigate to the project directory:
 
  ```bash
-   cd profasee
+   cd Profasee-React-Js
 ```
 3. Install the required dependencies using npm:
 
